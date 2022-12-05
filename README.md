@@ -4,7 +4,3 @@
 <span>  </span><img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=ryou-yattung" />
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ryou-yattung&theme=react-dark" />
-</div>
-
